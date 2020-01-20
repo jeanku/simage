@@ -1,0 +1,2 @@
+安装opencv3:
+pip install opencv-contrib-python
